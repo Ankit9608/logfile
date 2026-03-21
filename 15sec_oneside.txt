@@ -1,0 +1,572 @@
+started order workerPID: 10748
+
+started for btc-updown-5m-1774082700
+✅ Request successful with SSL verification
+⏩ Market btc-updown-5m-1774082700 already expired, skipping...
+started for btc-updown-5m-1774083000
+✅ Request successful with SSL verification
+⏩ Market btc-updown-5m-1774083000 already expired, skipping...
+started for btc-updown-5m-1774083300
+✅ Request successful with SSL verification
+⏩ Market btc-updown-5m-1774083300 already expired, skipping...
+started for btc-updown-5m-1774083600
+✅ Request successful with SSL verification
+⏩ Market btc-updown-5m-1774083600 already expired, skipping...
+started for btc-updown-5m-1774083900
+✅ Request successful with SSL verification
+⏩ Market btc-updown-5m-1774083900 already expired, skipping...
+started for btc-updown-5m-1774084200
+✅ Request successful with SSL verification
+⏩ Market btc-updown-5m-1774084200 already expired, skipping...
+started for btc-updown-5m-1774084500
+✅ Request successful with SSL verification
+⏩ Market btc-updown-5m-1774084500 already expired, skipping...
+started for btc-updown-5m-1774084800
+✅ Request successful with SSL verification
+⏩ Market btc-updown-5m-1774084800 already expired, skipping...
+started for btc-updown-5m-1774085100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774085100
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 6.723403930664062e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774085400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774085400
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 6.008148193359375e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774085700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774085700
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 4.9591064453125e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774086000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+placed order 17463155764219967589477705541940018587106424658744529877195111767524675864438 0.98 DOWN | time left: 0m 4s
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774086000
+✅✅✅ TRADE SUCCESSFUL!
+   Major: 0.980           Side:DOWN
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 0.005160093307495117
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774086300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774086300
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 4.696846008300781e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774086600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774086600
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 4.839897155761719e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774086900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774086900
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 4.9591064453125e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774087200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774087200
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 5.745887756347656e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774087500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774087500
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 4.6253204345703125e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774087800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774087800
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 5.650520324707031e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774088100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+placed order 44908467189880896288102535453647340279373041976271820455864041682659069522890 0.98 DOWN | time left: 0m 15s
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774088100
+✅✅✅ TRADE SUCCESSFUL!
+   Major: 0.980           Side:DOWN
+------------------------------------------------------------
+size of queue 13
+time required to clear queue 0.0001289844512939453
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774088400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+placed order 48959798349660552734524984296142956717290816814027827726688724487329246301258 0.98 DOWN | time left: 0m 10s
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774088400
+✅✅✅ TRADE SUCCESSFUL!
+   Major: 0.980           Side:DOWN
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 0.00010776519775390625
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774088700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774088700
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 5.4836273193359375e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774089000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774089000
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 5.91278076171875e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774089300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+placed order 77461672396131751629600916475486644589232226341068506924039593754785474879793 0.98 UP | time left: 0m 8s
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774089300
+✅✅✅ TRADE SUCCESSFUL!
+   Major: 0.980           Side:UP
+------------------------------------------------------------
+size of queue 9
+time required to clear queue 0.005291461944580078
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774089600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774089600
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 4.839897155761719e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774089900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774089900
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 4.887580871582031e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774090200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774090200
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 5.054473876953125e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774090500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774090500
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 0.00013875961303710938
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774090800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774090800
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 4.9591064453125e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774091100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774091100
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 4.601478576660156e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774091400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774091400
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 5.221366882324219e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774091700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+placed order 96217195123314160103690241602867763013517595526002489312486150165700732525872 0.98 UP | time left: 0m 15s
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774091700
+✅✅✅ TRADE SUCCESSFUL!
+   Major: 0.980           Side:UP
+------------------------------------------------------------
+size of queue 1
+time required to clear queue 0.012665987014770508
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774092000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+placed order 45307490391269920732306949289370583388183008559834347614438076250056666308342 0.98 UP | time left: 0m 12s
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774092000
+✅✅✅ TRADE SUCCESSFUL!
+   Major: 0.980           Side:UP
+------------------------------------------------------------
+size of queue 1
+time required to clear queue 0.010346174240112305
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774092300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+placed order 83638428487689464489974799131853789561783701130077352108450820898172244478228 0.98 UP | time left: 0m 15s
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774092300
+✅✅✅ TRADE SUCCESSFUL!
+   Major: 0.980           Side:UP
+------------------------------------------------------------
+size of queue 5
+time required to clear queue 0.00010013580322265625
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774092600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+placed order 93357367295137979749469261196113383764086016888414637394129256767695876695601 0.98 DOWN | time left: 0m 15s
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774092600
+✅✅✅ TRADE SUCCESSFUL!
+   Major: 0.980           Side:DOWN
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 5.745887756347656e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774092900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774092900
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 5.7220458984375e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774093200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774093200
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 7.295608520507812e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774093500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774093500
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 4.7206878662109375e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774093800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774093800
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 4.887580871582031e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774094100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774094100
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 5.8650970458984375e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774094400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774094400
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 5.698204040527344e-05
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774094700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+placed order 17652543504667735137581746449791940548776108267778813820198704550083952576625 0.98 DOWN | time left: 0m 13s
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774094700
+✅✅✅ TRADE SUCCESSFUL!
+   Major: 0.980           Side:DOWN
+------------------------------------------------------------
+size of queue 2
+time required to clear queue 0.010359525680541992
+Stack cleared True
+switched new slug
+started for btc-updown-5m-1774095000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+❌ WebSocket error: 
+Socket connected: 1 True
+⚠️ Old socket still alive, closing it...
+Socket connected 2: None
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774095000
+✅✅✅ TRADE SKIPPED! No loss for this market!
+------------------------------------------------------------
+size of queue 0
+time required to clear queue 4.887580871582031e-05
+Stack cleared True
+
+============================================================
+📊 SESSION SUMMARY
+============================================================
