@@ -1,0 +1,3361 @@
+PID: 9309
+started for btc-updown-15m-1774438200
+✅ Request successful with SSL verification
+⏩ Market btc-updown-15m-1774438200 already expired, skipping...
+started for btc-updown-15m-1774439100
+✅ Request successful with SSL verification
+⏩ Market btc-updown-15m-1774439100 already expired, skipping...
+started for btc-updown-15m-1774440000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 115552112592025464148210087127891058346681475686939032324571752277622655270347 0.8 UP
+placed minor side order for DOWN ..65743751202942509797897051214966755341620123197315254756701570888586255999370
+minor filled ..2 65743751202942509797897051214966755341620123197315254756701570888586255999370 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774440000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774440900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 96805049015700749704457331035290386467506566170990522637413734700797414683364 0.8 DOWN
+placed minor side order for UP ..26306407983607009005471241975321171735654148661352726553667414825554290930899
+minor filled ..2 26306407983607009005471241975321171735654148661352726553667414825554290930899 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774440900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774441800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 99832785335305727860854605209693657308929095174349480564093128785712651377263 0.8 UP
+placed minor side order for DOWN ..7290338990636319549375501630723856163386053286551400034061263416360925633534
+minor filled ..2 7290338990636319549375501630723856163386053286551400034061263416360925633534 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774441800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774442700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 10332137218328820631955499961107356636254747067767603768584043567255999893893 0.8 DOWN
+placed minor side order for UP ..36656999070164495806331060187179188889840006097537240708209963519446638110151
+stop loss hit and selling ..2 10332137218328820631955499961107356636254747067767603768584043567255999893893 0.4 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774442700
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774443600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 11117474462971597316406225255630439475159025310864072576670030368579757608126 0.8 DOWN
+placed minor side order for UP ..93915532178967095631089779001555556559466542386729333265076218533529415357840
+minor filled ..2 93915532178967095631089779001555556559466542386729333265076218533529415357840 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774443600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774444500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 34303268553040491059591873200287039073708436944819180751779376613268064045761 0.8 DOWN
+placed minor side order for UP ..22513382510118318009068563334417919231467753381955169171929712432463491892065
+minor filled ..2 22513382510118318009068563334417919231467753381955169171929712432463491892065 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774444500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774445400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 70149984120898303418444228755541291598914684546904240359859422930596325767739 0.8 UP
+placed minor side order for DOWN ..84003637384185391228458678584163767141917995683939461930862955475996967226858
+minor filled ..2 84003637384185391228458678584163767141917995683939461930862955475996967226858 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774445400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774446300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 44519664665182383205357345681288126284277917971167922645197880139442257226048 0.8 DOWN
+placed minor side order for UP ..84830513510023832507293514616077243886556871505028343042681829593817022291243
+minor filled ..2 84830513510023832507293514616077243886556871505028343042681829593817022291243 0.15 UP
+stop loss hit and selling ..2 44519664665182383205357345681288126284277917971167922645197880139442257226048 0.4 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774446300
+✅ 0.15 hit BEFORE stop loss
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774447200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774447200
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774448100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 66570284623078679106014107511431601297001064664681482597202375745317587218118 0.8 DOWN
+placed minor side order for UP ..111624794860483685222720996065783037603686912840040590840686077702779362897028
+stop loss hit and selling ..2 66570284623078679106014107511431601297001064664681482597202375745317587218118 0.4 DOWN
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+minor filled ..2 111624794860483685222720996065783037603686912840040590840686077702779362897028 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774448100
+❌ Stop loss hit BEFORE 0.15
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774449000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 89387873813947058823716880422855312620028632566858025935583171299852748968029 0.8 UP
+placed minor side order for DOWN ..59249083119850624394631376178164837323554710670761883526161619611904323301566
+stop loss hit and selling ..2 89387873813947058823716880422855312620028632566858025935583171299852748968029 0.4 UP
+minor filled ..2 59249083119850624394631376178164837323554710670761883526161619611904323301566 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774449000
+❌ Stop loss hit BEFORE 0.15
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774449900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 107862058071113044839577353896606212786242601248488633468841697282594776202566 0.8 UP
+placed minor side order for DOWN ..56054291154912490740732054637691772458064841777564586199430637864215811334998
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+stop loss hit and selling ..1 107862058071113044839577353896606212786242601248488633468841697282594776202566 0.4 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774449900
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774450800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 82065649621940967063133612650397864790367001549435618420257715597895238873430 0.8 DOWN
+placed minor side order for UP ..100403214697075446290687002557562210738441347429783551851157849113722542520038
+minor filled ..2 100403214697075446290687002557562210738441347429783551851157849113722542520038 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774450800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774451700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 8238040987322869902919691589881297656784057324934628054227106495340221857824 0.8 DOWN
+placed minor side order for UP ..59916943045495736745744594498313334132867332171771819388854932276731235489719
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+stop loss hit and selling ..2 8238040987322869902919691589881297656784057324934628054227106495340221857824 0.4 DOWN
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774451700
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774452600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 78837842106700149895063849804344300602331596295801294636684409689553742791871 0.8 DOWN
+placed minor side order for UP ..54917897448029024596112344402311851197933634470206145479653404131920331992214
+minor filled ..2 54917897448029024596112344402311851197933634470206145479653404131920331992214 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774452600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774453500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 27580615073212992170794039838548992816625694337575039639981644008329825530380 0.8 UP
+placed minor side order for DOWN ..95593407042312440664241562080499919132840318003704806641041869153962223303905
+stop loss hit and selling ..2 27580615073212992170794039838548992816625694337575039639981644008329825530380 0.4 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774453500
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774454400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 111863363708385500076749334473178886751698143294589804345519738765089170249713 0.8 UP
+placed minor side order for DOWN ..78750608351294720746560963285904809808299249353343460422458074535458960319909
+minor filled ..2 78750608351294720746560963285904809808299249353343460422458074535458960319909 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774454400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774455300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 66317985252676330410311529035360234366406597859079505960126908842823969765241 0.8 UP
+placed minor side order for DOWN ..76689305603541570398032163038809245274071769945922689635484680320814600941210
+minor filled ..2 76689305603541570398032163038809245274071769945922689635484680320814600941210 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774455300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774456200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 45571939334438662570816512233984029793971224888082294559120743390530319399598 0.8 UP
+placed minor side order for DOWN ..73116311575010074642287323420538766950184095154015052256100314659292016700913
+stop loss hit and selling ..2 45571939334438662570816512233984029793971224888082294559120743390530319399598 0.4 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774456200
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774457100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 32099166762714546423042037355633840130119972894807266163623195332363163257362 0.8 DOWN
+placed minor side order for UP ..73137777016272860985271202047326938864461823252458142655511730370694300528001
+minor filled ..2 73137777016272860985271202047326938864461823252458142655511730370694300528001 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774457100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774458000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 76180598467464640782113410550638322962102465753417071571150555430355900694317 0.8 DOWN
+placed minor side order for UP ..66932336862682649870205230951075203812568287972706044132294658778010979276510
+minor filled ..2 66932336862682649870205230951075203812568287972706044132294658778010979276510 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774458000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774458900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 35212238116792359741862371056659512424945536241208470528837414161152634739889 0.8 DOWN
+placed minor side order for UP ..9114485613585938347850233685957238821632298053106515369906286696271741834241
+minor filled ..2 9114485613585938347850233685957238821632298053106515369906286696271741834241 0.15 UP
+stop loss hit and selling ..1 35212238116792359741862371056659512424945536241208470528837414161152634739889 0.4 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774458900
+✅ 0.15 hit BEFORE stop loss
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774459800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 28600686191157488112075929024907315294844267921223523352291580862593552419597 0.8 DOWN
+placed minor side order for UP ..17779498532263151857595349963036914049928375710480603076245336623303908792812
+minor filled ..2 17779498532263151857595349963036914049928375710480603076245336623303908792812 0.15 UP
+❌ WebSocket error: 
+Socket connected: 1 True
+⚠️ Old socket still alive, closing it...
+Socket connected 2: None
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774459800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774460700
+✅ Request successful with SSL verification
+❌ WebSocket error: 
+Socket connected: 1 False
+Socket connected 2: False
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774460700
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774461600
+✅ Request successful with SSL verification
+❌ WebSocket error: 
+Socket connected: 1 False
+Socket connected 2: False
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774461600
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774462500
+✅ Request successful with SSL verification
+❌ WebSocket error: 
+Socket connected: 1 False
+Socket connected 2: False
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774462500
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774463400
+✅ Request successful with SSL verification
+❌ WebSocket error: 
+Socket connected: 1 False
+Socket connected 2: False
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-15m-1774463400
+------------------------------------------------------------
+switched new slug
+started for btc-updown-15m-1774464300
+
+============================================================
+📊 SESSION SUMMARY
+Total trades: 27
+Profitable trades: 15
+Unprofitable trades: 5
+Both sides but hit stop loss later: 2
+stop loss first: 5
+Profit = 0.75 - 2.0 = net -1.25
+============================================================
+PID: 3711
+started for btc-updown-5m-1774504200
+✅ Request successful with SSL verification
+⏩ Market btc-updown-5m-1774504200 already expired, skipping...
+started for btc-updown-5m-1774504500
+✅ Request successful with SSL verification
+⏩ Market btc-updown-5m-1774504500 already expired, skipping...
+started for btc-updown-5m-1774504800
+✅ Request successful with SSL verification
+⏩ Market btc-updown-5m-1774504800 already expired, skipping...
+started for btc-updown-5m-1774505100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 114122123095927621683280370181732323358475394242439086896185011262471821142053 0.8 UP
+placed minor side order for DOWN ..39499286653989351451563246794786886667461940736854163231840589558718587785253
+minor filled ..2 39499286653989351451563246794786886667461940736854163231840589558718587785253 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774505100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774505400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 69212597378867192189262811843874761085996988638986913119286854437864533927170 0.8 DOWN
+placed minor side order for UP ..28439425205978700918325090188515563307369778625255069768625399790674575777800
+minor filled ..2 28439425205978700918325090188515563307369778625255069768625399790674575777800 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774505400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774505700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 22256557546944436579696824228449942494818725260011317633876568160673720367299 0.8 UP
+placed minor side order for DOWN ..12475199157430927800391346227190530951360187546391081441134371382020901718974
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+minor filled ..2 12475199157430927800391346227190530951360187546391081441134371382020901718974 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774505700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774506000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 55141219976174370864721198942198218556249200201447628081980900068813908602941 0.85 DOWN
+placed minor side order for UP ..100612753171860357146865527745789861956934157023059087908780050492582176911252
+minor filled ..1 100612753171860357146865527745789861956934157023059087908780050492582176911252 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774506000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774506300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 92714144094636569489480885911078877972315742769111209450670858218802599626407 0.8 UP
+placed minor side order for DOWN ..10237097851128388953618740991726162058891552310334874145421721630817837620292
+minor filled ..1 10237097851128388953618740991726162058891552310334874145421721630817837620292 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774506300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774506600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 41837900065165978093655490885233093272938224678388380071648210192922602498237 0.81 DOWN
+placed minor side order for UP ..43876175065569875118922303807161043440373260046778308623610009474486712087827
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774506600
+⚠️ Neither stop loss nor minor fill hit,but major taken market ended?
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774506900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774506900
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774507200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774507200
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774507500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774507500
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774507800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774507800
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774508100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774508100
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774508400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 109983286765093646004258191578940978143796932219561099428357648301895760988119 0.84 DOWN
+placed minor side order for UP ..84461731787140845699343942836123215927095660156079995933112294535569377381832
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+stop loss hit and selling ..1 109983286765093646004258191578940978143796932219561099428357648301895760988119 0.22 DOWN
+major side taken reversed market ..2 84461731787140845699343942836123215927095660156079995933112294535569377381832 0.8 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774508400
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774508700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 65274900557579465622004353571948778013753935052063800774582271360112937386907 0.81 DOWN
+placed minor side order for UP ..27695527930734561736602164243115589285299196484126887769891475024138211789687
+minor filled ..2 27695527930734561736602164243115589285299196484126887769891475024138211789687 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774508700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774509000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 45689123437653645284653083528551750623169619378172915150959795459631644314744 0.8 DOWN
+placed minor side order for UP ..81645740395715444683269066170485201592715675455854232200896997274028453294817
+minor filled ..2 81645740395715444683269066170485201592715675455854232200896997274028453294817 0.15 UP
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774509000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774509300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 6396967725559688026037778076609735334909904346086561157439866334706649760890 0.84 UP
+placed minor side order for DOWN ..91239874217160015886961385117066615649708984914960365364752659363566015939364
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774509300
+⚠️ Neither stop loss nor minor fill hit,but major taken market ended?
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774509600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 10704388164812826503794164870669914953734458468969723415255642809988264649781 0.8 DOWN
+placed minor side order for UP ..111673588263696412898300782470907882924682327171565864305119890240169072273012
+minor filled ..2 111673588263696412898300782470907882924682327171565864305119890240169072273012 0.15 UP
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774509600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774509900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 15336414779073812349050764458604040803453973197009581284651159899594305664261 0.8 DOWN
+placed minor side order for UP ..115440459637721705290235769422278667967354795257053975410877722322046396921999
+minor filled ..2 115440459637721705290235769422278667967354795257053975410877722322046396921999 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774509900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774510200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 44191996621487003678442596779274011427291888033709030951778036717060836017941 0.84 DOWN
+placed minor side order for UP ..7843021992414304520372073471114771362002936871520299467778856733044327910581
+minor filled ..2 7843021992414304520372073471114771362002936871520299467778856733044327910581 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774510200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774510500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 33234502919332227457194995765316585137560477688281498547401743856849034621388 0.8 UP
+placed minor side order for DOWN ..113935116163287852114620504028461713698776279179206835661504845730250434347080
+minor filled ..2 113935116163287852114620504028461713698776279179206835661504845730250434347080 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774510500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774510800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774510800
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774511100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 96045910389499936666202932729450523931854850837161568403960772726893139293587 0.81 UP
+placed minor side order for DOWN ..95561206718963189590454146740022911496195242281573269940078137728923535741801
+minor filled ..2 95561206718963189590454146740022911496195242281573269940078137728923535741801 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774511100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774511400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 50073125915894443428889883854412725987508005080912519675504654023713825493766 0.85 UP
+placed minor side order for DOWN ..97981705189075735212269112908717505864782849552902367788826850651707246217562
+minor filled ..2 97981705189075735212269112908717505864782849552902367788826850651707246217562 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774511400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774511700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 49700715932416589264251415567998001333539476703868741162930386581736787308772 0.8 DOWN
+placed minor side order for UP ..63330738264325277356933541241819250958651748650768421007557343106659283222096
+minor filled ..2 63330738264325277356933541241819250958651748650768421007557343106659283222096 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774511700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774512000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 100098490297339340117710326387152018727976792480827661253121136678836574316382 0.8 DOWN
+placed minor side order for UP ..23971091875805554430000741873281305042068169570626325861027195849147958795266
+minor filled ..2 23971091875805554430000741873281305042068169570626325861027195849147958795266 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774512000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774512300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 73947381251597380924128643274605884550676349355644618858075742884427928231420 0.85 UP
+placed minor side order for DOWN ..82658135258783860064880737548393869768329440293548702825214071536256362182353
+minor filled ..2 82658135258783860064880737548393869768329440293548702825214071536256362182353 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774512300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774512600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 113905599300182398475340381699080480377450245305252191255560797467632821014417 0.85 DOWN
+placed minor side order for UP ..112906616295410369830116415483886461644503573922726936194329788831865650918825
+minor filled ..2 112906616295410369830116415483886461644503573922726936194329788831865650918825 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774512600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774512900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 25883271667038481512119414682476008645057404492884647432300694721807338267715 0.8 UP
+placed minor side order for DOWN ..50680324361024703883236228972835855562244149492726697644420645146871641517953
+minor filled ..2 50680324361024703883236228972835855562244149492726697644420645146871641517953 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774512900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774513200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 70080421838469218647991024213017012009773015102410382258207423560892726378097 0.85 DOWN
+placed minor side order for UP ..111896617629672142907327973265604617032789694283950427618670646037276596995030
+minor filled ..1 111896617629672142907327973265604617032789694283950427618670646037276596995030 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774513200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774513500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774513500
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774513800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 85370333445757621523632904737954414037859530181911663203388530769481717216707 0.8 UP
+placed minor side order for DOWN ..76072949109884701091581692364753658513615916464916989309450170591274233689705
+minor filled ..2 76072949109884701091581692364753658513615916464916989309450170591274233689705 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774513800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774514100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 88586231286885864177406664455025146921508328217442307394363281467958709351766 0.8 UP
+placed minor side order for DOWN ..31138471249030005688041228391538984742346151763760572297749507625771865832381
+stop loss hit and selling ..2 88586231286885864177406664455025146921508328217442307394363281467958709351766 0.49 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774514100
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774514400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 3142024675732395854932749844860914855821500688500945379581975876232296178755 0.8 UP
+placed minor side order for DOWN ..3354229511105801634300859502808719444036672198861731738749411433097989828272
+minor filled ..2 3354229511105801634300859502808719444036672198861731738749411433097989828272 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774514400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774514700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 1408990856112071986967693861331798532501844674446478844169107320678091973397 0.8 UP
+placed minor side order for DOWN ..39353410117112630838896501190610876843067380288368093794692099959790327075106
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+minor filled ..2 39353410117112630838896501190610876843067380288368093794692099959790327075106 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774514700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774515000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 58779171378753040273547833889411100281640930430837040192014777442237090167078 0.8 UP
+placed minor side order for DOWN ..44910406836464179003614524044201701268382942629198430107881894265432491492514
+stop loss hit and selling ..2 58779171378753040273547833889411100281640930430837040192014777442237090167078 0.49 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774515000
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774515300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 110190464562485040601386533352474216241090103083926327601200375333347170193354 0.8 UP
+placed minor side order for DOWN ..40498732263738770961011345102130435770112278165015836876435175666088944615938
+minor filled ..2 40498732263738770961011345102130435770112278165015836876435175666088944615938 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774515300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774515600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 8517538201807445518059071422503098466655227041464651368588477860802446713395 0.8 DOWN
+placed minor side order for UP ..46512391410355169508741162254246775983621294056668037415786643753460807240982
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+minor filled ..2 46512391410355169508741162254246775983621294056668037415786643753460807240982 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774515600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774515900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 2263384287630493956319031387177510015357632093427268228647026224008920627582 0.8 UP
+placed minor side order for DOWN ..15111399071644580083185776380052327715130432290295407064229236670221653861373
+minor filled ..2 15111399071644580083185776380052327715130432290295407064229236670221653861373 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774515900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774516200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 31372213370336973341875767293000129444515063767684100921764258628910895871440 0.8 DOWN
+placed minor side order for UP ..112945215492489059250588606129353366057706384031367409493859133174656334629431
+minor filled ..2 112945215492489059250588606129353366057706384031367409493859133174656334629431 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774516200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774516500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 99555939508693525293190626874126868778187939471769651242903833814265663813178 0.8 DOWN
+placed minor side order for UP ..62778954860738158604152904294914357165612181295425196140472612073176687162477
+minor filled ..2 62778954860738158604152904294914357165612181295425196140472612073176687162477 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774516500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774516800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 83016370759367087648478010499705533468490683154638722751981546242292728125768 0.85 UP
+placed minor side order for DOWN ..94704738024894038173041532958058491076674130497129064054097403040915031004165
+minor filled ..2 94704738024894038173041532958058491076674130497129064054097403040915031004165 0.15 DOWN
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774516800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774517100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 98059462895845111585808621944454790821390950992709820633382655846273258846801 0.8 UP
+placed minor side order for DOWN ..97103301658929678224761098871531150643477022674531859292538222710979547208387
+minor filled ..2 97103301658929678224761098871531150643477022674531859292538222710979547208387 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774517100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774517400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774517400
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774517700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 93200056835706398171583626846924076273344280409469101947656765569281024867442 0.8 UP
+placed minor side order for DOWN ..71401988830896710850241055856856740263976266117596513095805427375795740877743
+minor filled ..2 71401988830896710850241055856856740263976266117596513095805427375795740877743 0.15 DOWN
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774517700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774518000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 101815424811522365154674462672444885703820155362007390110148693770500645531348 0.8 UP
+placed minor side order for DOWN ..71129754865773397475487083961295664462055226132986507251410751017377542200167
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+minor filled ..1 71129754865773397475487083961295664462055226132986507251410751017377542200167 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774518000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774518300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 22828725710998281086051839443696599048291835895328916442336779261310088842952 0.8 DOWN
+placed minor side order for UP ..85402743328417853365590648027299955385786739449995583002259201489630652144408
+minor filled ..2 85402743328417853365590648027299955385786739449995583002259201489630652144408 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774518300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774518600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 43296085657524325946205220855554396222281775671338440066656986968930095980492 0.82 UP
+placed minor side order for DOWN ..62884756664021400525877875740560989751919813016730880095635262559569539310546
+minor filled ..2 62884756664021400525877875740560989751919813016730880095635262559569539310546 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774518600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774518900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 63889310698612428697796318894280403109467571600068849230041611665881865806480 0.8 UP
+placed minor side order for DOWN ..36233067087986350144306285549603539265491475000079182332483179396531113292240
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+stop loss hit and selling ..1 63889310698612428697796318894280403109467571600068849230041611665881865806480 0.48 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774518900
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774519200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 57287749312346791667181760052086047694671830878418376752854312059902717240038 0.8 DOWN
+placed minor side order for UP ..63888349149449243531036831276935898169569202716905328954400807773012594230787
+minor filled ..2 63888349149449243531036831276935898169569202716905328954400807773012594230787 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774519200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774519500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 81479131413059430553231656132170278058431389774575303621131273149154807337878 0.8 UP
+placed minor side order for DOWN ..19197180805765095047946920282001809463805525039705253060210565874926739041901
+minor filled ..2 19197180805765095047946920282001809463805525039705253060210565874926739041901 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774519500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774519800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 29002842835990045031077864598580328286864389763362568067159813319233398094418 0.8 UP
+placed minor side order for DOWN ..86993611619295438039365684073592802647724688647159125593146337545905107193534
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774519800
+⚠️ Neither stop loss nor minor fill hit,but major taken market ended?
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774520100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 56522720843611812483221596705584584811780743114977082172375339314078991706298 0.8 UP
+placed minor side order for DOWN ..107653570360659765383632644476193463835130680486961339875679946982500453804632
+minor filled ..2 107653570360659765383632644476193463835130680486961339875679946982500453804632 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774520100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774520400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 28637265603605731058823374674911078297123755429269735221805918478018991500246 0.8 UP
+placed minor side order for DOWN ..23043184741039141433427366020090922196745270487476321239969321119443517002916
+minor filled ..2 23043184741039141433427366020090922196745270487476321239969321119443517002916 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774520400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774520700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774520700
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774521000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 29739645309415073349529927779777306076315127559916654551378260412557119097295 0.81 DOWN
+placed minor side order for UP ..56263460819996909041209186307713425406255652268824488545505614010630276890887
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+minor filled ..2 56263460819996909041209186307713425406255652268824488545505614010630276890887 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774521000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774521300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 105269092741229966499392745559006547966037499134303410735926629921881676340872 0.8 UP
+placed minor side order for DOWN ..82624887998083371758886661007810714419826717634929144589024465617411553139210
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+stop loss hit and selling ..2 105269092741229966499392745559006547966037499134303410735926629921881676340872 0.48 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774521300
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774521600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 114660642166651536925819156188131486488193188723918204175751802630324433682145 0.8 UP
+placed minor side order for DOWN ..41517889362812277618051951373214085697826309101706848730787669582951029989967
+minor filled ..2 41517889362812277618051951373214085697826309101706848730787669582951029989967 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774521600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774521900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 97198737931670217948180833835507196738067825086851311993913938847560355974343 0.8 DOWN
+placed minor side order for UP ..51699736136171885731796261909754195886646229566318356907783760692808167043819
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774521900
+⚠️ Neither stop loss nor minor fill hit,but major taken market ended?
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774522200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 75073455405548974836857985456528915219211820091776370436332002807907426256819 0.8 DOWN
+placed minor side order for UP ..21581208120851052309269464027884513202665586449139255502678319386964787053487
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774522200
+⚠️ Neither stop loss nor minor fill hit,but major taken market ended?
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774522500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 23354404321744146030893875926278490509855327692517282559308228078181276332357 0.8 DOWN
+placed minor side order for UP ..59589431426408675237160114351734879043732099225170692780607601194798173271522
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774522500
+⚠️ Neither stop loss nor minor fill hit,but major taken market ended?
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774522800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 81310057171508867157126730101328326795904308101699762175370875003074462464605 0.85 UP
+placed minor side order for DOWN ..53777633716832164525175590508824661497415848578379613772097068826525481549315
+minor filled ..2 53777633716832164525175590508824661497415848578379613772097068826525481549315 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774522800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774523100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 34851530038353153935393347020728534590674694580424248986423467780695791141436 0.8 DOWN
+placed minor side order for UP ..64620228918588326041409715015666812038119531896551022241050807058919511362592
+minor filled ..2 64620228918588326041409715015666812038119531896551022241050807058919511362592 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774523100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774523400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 20521165214923139692660234407866055572829677317821385647748319609341900552148 0.8 DOWN
+placed minor side order for UP ..63357879293166149197068452285127958165842265181759060668368350004394382817734
+minor filled ..2 63357879293166149197068452285127958165842265181759060668368350004394382817734 0.15 UP
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774523400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774523700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 66618417214609855296232385828060868408532016808063583331049518791177956369746 0.8 DOWN
+placed minor side order for UP ..98830802807218798066506403561055877250312589789670783082616165644090179156099
+minor filled ..2 98830802807218798066506403561055877250312589789670783082616165644090179156099 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774523700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774524000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 31630913943498059109040746202526570941663284875874563614701030994547375418506 0.8 DOWN
+placed minor side order for UP ..92472171222222178202209409591426226387948660960303904054268516942968909909004
+minor filled ..2 92472171222222178202209409591426226387948660960303904054268516942968909909004 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774524000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774524300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 17366993184366198635411353552765264847595124020593747831760018455034765010580 0.85 DOWN
+placed minor side order for UP ..85950785177739027708835731137545740724316476005842533016760570947751537846475
+minor filled ..2 85950785177739027708835731137545740724316476005842533016760570947751537846475 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774524300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774524600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 11810651257229228535420623886489132755293356478038916589523756189211225801390 0.8 UP
+placed minor side order for DOWN ..710766638778688648646755292287827979728102209895086953072937684889695460412
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+minor filled ..2 710766638778688648646755292287827979728102209895086953072937684889695460412 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774524600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774524900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 76682822432892640181201988284552038394371996679744656947726017523034266083936 0.8 UP
+placed minor side order for DOWN ..108454012482481635721870043276191960764237698080365560231987224134877978001807
+minor filled ..2 108454012482481635721870043276191960764237698080365560231987224134877978001807 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774524900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774525200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 112229357483091404972818304364883866622236301874394140176429281795177414389518 0.8 DOWN
+placed minor side order for UP ..45969510629829468449193242658664245724554485408881022594717647610959832957833
+minor filled ..2 45969510629829468449193242658664245724554485408881022594717647610959832957833 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774525200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774525500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 48943766870511220779474478375675214868998339662977377954587342538550326292965 0.8 UP
+placed minor side order for DOWN ..21824273190061275208559819228136650482439188562136920569076000087961391522753
+minor filled ..2 21824273190061275208559819228136650482439188562136920569076000087961391522753 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774525500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774525800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 99322982761715802292541043862752228626217259093970482267154655792244024031343 0.8 DOWN
+placed minor side order for UP ..77754436132160694776708999345414322643884096199807899525084486358974192535465
+stop loss hit and selling ..1 99322982761715802292541043862752228626217259093970482267154655792244024031343 0.5 DOWN
+major side taken reversed market ..2 77754436132160694776708999345414322643884096199807899525084486358974192535465 0.8 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774525800
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774526100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 61969013332648461148577118656602979521780090139515318312936924169711434557986 0.8 DOWN
+placed minor side order for UP ..102790213220553803977260575562201506459087239194445799682347550365950620255726
+minor filled ..2 102790213220553803977260575562201506459087239194445799682347550365950620255726 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774526100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774526400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 105988209035372688991594456404424959918184115996381478811405317142873496340646 0.8 UP
+placed minor side order for DOWN ..34602988270197189155526690482783743917175074981044171339033565840917201699222
+minor filled ..2 34602988270197189155526690482783743917175074981044171339033565840917201699222 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774526400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774526700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 100031715324599588745462709313403819301682362510039592430077799759543970314684 0.8 DOWN
+placed minor side order for UP ..9322124363977612927862638749764238297159829452832948363320845127725553097213
+stop loss hit and selling ..2 100031715324599588745462709313403819301682362510039592430077799759543970314684 0.5 DOWN
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken reversed market ..2 9322124363977612927862638749764238297159829452832948363320845127725553097213 0.81 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774526700
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774527000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 61736193003507492667682960009404707642679617182524773982325560988088922938521 0.8 UP
+placed minor side order for DOWN ..79752198637754294207211430890197898236860198589861909747550597305466607516740
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774527000
+⚠️ Neither stop loss nor minor fill hit,but major taken market ended?
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774527300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774527300
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774527600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 13645106862328032541905497228097177676606488431825970908215107173569075691386 0.8 UP
+placed minor side order for DOWN ..115476891021684988083055008397714518179683452391944509283359728613937472218120
+minor filled ..2 115476891021684988083055008397714518179683452391944509283359728613937472218120 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774527600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774527900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 26506403645648671004530578593396109328889860417065399470766481402942337619221 0.8 UP
+placed minor side order for DOWN ..43250771225284039687112320020099394748863161966117994051736277805896098238919
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+stop loss hit and selling ..2 26506403645648671004530578593396109328889860417065399470766481402942337619221 0.5 UP
+major side taken reversed market ..2 26506403645648671004530578593396109328889860417065399470766481402942337619221 0.8 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774527900
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774528200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 39581092351398544139858327855176100513837565455130202655864742953107286978733 0.8 UP
+placed minor side order for DOWN ..34529814755021577603187931669412376020777550535324349205032109543202904160772
+minor filled ..2 34529814755021577603187931669412376020777550535324349205032109543202904160772 0.15 DOWN
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774528200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774528500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 111433030599300545552515178839060658779944529279802343885545244298907228564731 0.8 DOWN
+placed minor side order for UP ..66678067176234270502591992869559703271867576113829873512657060190143704190031
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+stop loss hit and selling ..2 111433030599300545552515178839060658779944529279802343885545244298907228564731 0.48 DOWN
+major side taken reversed market ..2 66678067176234270502591992869559703271867576113829873512657060190143704190031 0.8 UP
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774528500
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774528800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 5803763177597862644315910697997702495376659100164581398548499768532298442045 0.8 UP
+placed minor side order for DOWN ..11017514935652585627025174904336989856579977033592804642518390040594516975138
+minor filled ..2 11017514935652585627025174904336989856579977033592804642518390040594516975138 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774528800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774529100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 111041815630347107976122807783520922864305885069929848190357675031831072959812 0.8 UP
+placed minor side order for DOWN ..44097765563724172219656831814119005976660105021548509305137453776432736704711
+minor filled ..2 44097765563724172219656831814119005976660105021548509305137453776432736704711 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774529100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774529400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 20563849836960945640879072390220402416255831818439715236028561242400116800976 0.8 UP
+placed minor side order for DOWN ..5837145737413518084131713484105273968919228360494756390301121798830028222718
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774529400
+⚠️ Neither stop loss nor minor fill hit,but major taken market ended?
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774529700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 16969270275804254478173698969170951853290517991068432167229759247672391982284 0.8 UP
+placed minor side order for DOWN ..59473582286326935674396258063096177626246886164105081575408098398528902657730
+minor filled ..2 59473582286326935674396258063096177626246886164105081575408098398528902657730 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774529700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774530000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774530000
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774530300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 111564138252008965780279589372103928094112285727621703715337187938126633986184 0.8 UP
+placed minor side order for DOWN ..51182829415977821519047646061208694223904610634214959764069560414530818790837
+minor filled ..2 51182829415977821519047646061208694223904610634214959764069560414530818790837 0.15 DOWN
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774530300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774530600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 32265561600349537285996591357558895462812710979799389610923397108915161541250 0.8 DOWN
+placed minor side order for UP ..26805805246685912375946493349221035688288246499073533027885827998799013650099
+minor filled ..2 26805805246685912375946493349221035688288246499073533027885827998799013650099 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774530600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774530900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 71065386146757778198443277627450355242288139316003377751306962216604365560810 0.8 UP
+placed minor side order for DOWN ..26501492205337491073209218921188917112433163128308384132265372664888970527762
+minor filled ..2 26501492205337491073209218921188917112433163128308384132265372664888970527762 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774530900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774531200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 44136326422669884798556097272681196487094930194207286683332815127307342100740 0.8 DOWN
+placed minor side order for UP ..17262623174194933057545653226724674736655173746760079918029560218720388197069
+minor filled ..2 17262623174194933057545653226724674736655173746760079918029560218720388197069 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774531200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774531500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 53459112084140552530027369416893675104649320204034571782676258272987391517107 0.8 DOWN
+placed minor side order for UP ..33903940301799851118680841378474349895364975277384408273851002925407650822965
+minor filled ..2 33903940301799851118680841378474349895364975277384408273851002925407650822965 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774531500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774531800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774531800
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774532100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 15915054034044576984221013099595221592220770361591311168935261072979574248170 0.8 UP
+placed minor side order for DOWN ..108026988411796746534062342103340388713866431744385937011101886871263832330160
+minor filled ..2 108026988411796746534062342103340388713866431744385937011101886871263832330160 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774532100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774532400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 9086034888881740952118163612038601347884197791836668312314312756133276572928 0.8 UP
+placed minor side order for DOWN ..37670527408303194520762366943367483181234779039950255039664231962512664228459
+minor filled ..2 37670527408303194520762366943367483181234779039950255039664231962512664228459 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774532400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774532700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 43711816650718902916120961313794179524136207802360485956682445976680107996076 0.8 UP
+placed minor side order for DOWN ..96996433440042744679224872592207028744851168606523120273177200687182844955650
+minor filled ..2 96996433440042744679224872592207028744851168606523120273177200687182844955650 0.15 DOWN
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774532700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774533000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 79753613856518041885098526501994182132732882925041022369793576057607112384230 0.8 UP
+placed minor side order for DOWN ..56943127592855078957834824334783937500494516692096076154614288014233807143169
+minor filled ..2 56943127592855078957834824334783937500494516692096076154614288014233807143169 0.15 DOWN
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774533000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774533300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 23030049240816889709677394733964650867740635789487169573067161504040248551280 0.83 DOWN
+placed minor side order for UP ..49815746735369630248256810671261188516044164990114028198989171595529998639361
+minor filled ..2 49815746735369630248256810671261188516044164990114028198989171595529998639361 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774533300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774533600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 33089761517220944510528162238690720782957188744675836275111009742489501930921 0.84 UP
+placed minor side order for DOWN ..77577825256347357519388129548492102185478129832939494035115915426765194390503
+minor filled ..2 77577825256347357519388129548492102185478129832939494035115915426765194390503 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774533600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774533900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 67405306651179257345567527852189788875105386096130477598093913957330073679617 0.8 UP
+placed minor side order for DOWN ..42880486382479003711334446124425087241622844816445188564643651740167134895946
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+stop loss hit and selling ..1 67405306651179257345567527852189788875105386096130477598093913957330073679617 0.02 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774533900
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774534200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 7070126390840276615195789598105051185818869041960371097482306605864277801955 0.8 DOWN
+placed minor side order for UP ..48539139644455888554124051820363388297150933650531142972197247880053363282430
+minor filled ..2 48539139644455888554124051820363388297150933650531142972197247880053363282430 0.15 UP
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774534200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774534500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 53526467484560648667479081831401476445280743613375177542992590227707352519443 0.83 DOWN
+placed minor side order for UP ..64468995609829053622900396563189159494558645351968496530899874888626248804267
+minor filled ..2 64468995609829053622900396563189159494558645351968496530899874888626248804267 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774534500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774534800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 9309746946488899812990151936332243631151272891855800543039649276344061778447 0.85 UP
+placed minor side order for DOWN ..56857309181257041680360399928288405455168231582951417513878252641053435886018
+minor filled ..2 56857309181257041680360399928288405455168231582951417513878252641053435886018 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774534800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774535100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774535100
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774535400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 84862803326938059098964120746595303103230042604345964117705835732960585249382 0.8 UP
+placed minor side order for DOWN ..53822310407801108235331063554821856395626749932016368349324115277161267096691
+minor filled ..2 53822310407801108235331063554821856395626749932016368349324115277161267096691 0.15 DOWN
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774535400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774535700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 41907734004243789281612597650289581690821074864197889459465399703067073669125 0.8 DOWN
+placed minor side order for UP ..54389804685288860132779896788990401528973615875119488800936869560849810338642
+minor filled ..2 54389804685288860132779896788990401528973615875119488800936869560849810338642 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774535700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774536000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 18464350448251221216847712602508412539567577209872557226194703356858377882326 0.8 UP
+placed minor side order for DOWN ..10144766917506844123287177945653497996709019304333612868871860175603156633673
+minor filled ..2 10144766917506844123287177945653497996709019304333612868871860175603156633673 0.15 DOWN
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774536000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774536300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 80420443791973007705038692211532847933740627590071484600457471935728036359549 0.81 DOWN
+placed minor side order for UP ..75557281863118983751638406056913215330258846960571796596245875102423052743429
+stop loss hit and selling ..2 80420443791973007705038692211532847933740627590071484600457471935728036359549 0.5 DOWN
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774536300
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774536600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774536600
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774536900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 44235099735428916086514533517052508061151889140395738200771071840622554822571 0.8 UP
+placed minor side order for DOWN ..95473995769610034619150939752060795056688339818487447564560724839882306710725
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+minor filled ..1 95473995769610034619150939752060795056688339818487447564560724839882306710725 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774536900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774537200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 58519551286411045842856968351499545554658121664499463864602773757555624335667 0.8 DOWN
+placed minor side order for UP ..50165169386368454515844281022827617938364354417625985759821149409691180181615
+minor filled ..2 50165169386368454515844281022827617938364354417625985759821149409691180181615 0.15 UP
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774537200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774537500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 106694053421849796353518886525908392384808727261958251917628369440515207265153 0.8 DOWN
+placed minor side order for UP ..29629269580807557375288236327645298764202950119827904656416979621709953631018
+minor filled ..1 29629269580807557375288236327645298764202950119827904656416979621709953631018 0.15 UP
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774537500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774537800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 18644012806277590555640032784937559053669019131547149771340103257002761954235 0.8 DOWN
+placed minor side order for UP ..56689400086999216067228408962160977585232509116998094903916940459852767396636
+minor filled ..2 56689400086999216067228408962160977585232509116998094903916940459852767396636 0.15 UP
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774537800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774538100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 4764361468426454790486881602551698029118670741434525694221765586903018135126 0.8 DOWN
+placed minor side order for UP ..31021556985537312833631978019798405319315416526167267448318713909930711910355
+minor filled ..2 31021556985537312833631978019798405319315416526167267448318713909930711910355 0.15 UP
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774538100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774538400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774538400
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774538700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 75656588842377678348242916784669255755581785118443214730872218647838170843733 0.85 UP
+placed minor side order for DOWN ..15946503009221048538093320796853605238419873426085996385650009508069550512924
+minor filled ..2 15946503009221048538093320796853605238419873426085996385650009508069550512924 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774538700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774539000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774539000
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774539300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 22071592870232057071286245146544952062251264983700886260230156588111716988531 0.8 DOWN
+placed minor side order for UP ..63865872854687819756558060139312783328647905420993314869840316753945546098054
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774539300
+⚠️ Neither stop loss nor minor fill hit,but major taken market ended?
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774539600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 61938344825607374739637643316045507668133507102604523259469486643539033024640 0.8 DOWN
+placed minor side order for UP ..49890530859165622807177611938285863523500844303277417295525793432025219120743
+minor filled ..2 49890530859165622807177611938285863523500844303277417295525793432025219120743 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774539600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774539900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 18750863140612223613898927986350662042373148830375329837267889012870843669268 0.85 UP
+placed minor side order for DOWN ..30834595885569533461415514446760192467756046763653950028040874893424092750476
+minor filled ..2 30834595885569533461415514446760192467756046763653950028040874893424092750476 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774539900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774540200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 55332454166552608169267995728489840225422471321957869517953476983654248279901 0.8 UP
+placed minor side order for DOWN ..32768791913277933634315852500434457183887006406826651654633353918916794453833
+minor filled ..2 32768791913277933634315852500434457183887006406826651654633353918916794453833 0.15 DOWN
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774540200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774540500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 107150544627326014301512912361577005974369128546056996603870520480150159659082 0.8 DOWN
+placed minor side order for UP ..16549759522510095094257031581973255400909977724420168854038276569602297281350
+minor filled ..2 16549759522510095094257031581973255400909977724420168854038276569602297281350 0.15 UP
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774540500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774540800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 114964152534455396527168096930562221854482336399887295502988879113152364167887 0.8 DOWN
+placed minor side order for UP ..111493434491812479682024059335666854665609946291706132261198607398557899172290
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+minor filled ..2 111493434491812479682024059335666854665609946291706132261198607398557899172290 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774540800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774541100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 79224639370117303579871068583688532654500488095546957205904780111477307673297 0.8 UP
+placed minor side order for DOWN ..78182017122126712642529417422137879121823405784005759994882328938546879742091
+minor filled ..2 78182017122126712642529417422137879121823405784005759994882328938546879742091 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774541100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774541400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 83441743063844272247045857643245962440645201461102685375568172999232691409447 0.8 UP
+placed minor side order for DOWN ..25994514753849438615519045831479194417117732327464491685286071949233629935878
+minor filled ..2 25994514753849438615519045831479194417117732327464491685286071949233629935878 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774541400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774541700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 15281777914011421578812897198298086961315604867889174213144698788906351649901 0.8 DOWN
+placed minor side order for UP ..13802362126588237698019467466948646578925323514578400659787617154254931466139
+minor filled ..2 13802362126588237698019467466948646578925323514578400659787617154254931466139 0.15 UP
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774541700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774542000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 7789993627302791291150760242226160569064896785449891284356471822321072419685 0.8 DOWN
+placed minor side order for UP ..103658918750857246446606277246641899597131596498818413388053409718771279348636
+minor filled ..2 103658918750857246446606277246641899597131596498818413388053409718771279348636 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774542000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774542300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 63019160828570706827002693538849533005217073507868126597105119212151020988627 0.8 DOWN
+placed minor side order for UP ..71966426531782384441318537421170806198696352460672237235232600731602501644512
+minor filled ..2 71966426531782384441318537421170806198696352460672237235232600731602501644512 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774542300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774542600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 55043096369090038587943281440805699783674718365793292310160526502119794363276 0.8 DOWN
+placed minor side order for UP ..81178056431106783731791508694634149158766446319249185141064689511882164321999
+stop loss hit and selling ..2 55043096369090038587943281440805699783674718365793292310160526502119794363276 0.5 DOWN
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken reversed market ..2 81178056431106783731791508694634149158766446319249185141064689511882164321999 0.8 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774542600
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774542900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 67205092380826554523383956981319113942555653239888655472000162870926190642563 0.8 DOWN
+placed minor side order for UP ..3993283603339794715593378404983221273702179972455096256769744548363425221570
+minor filled ..2 3993283603339794715593378404983221273702179972455096256769744548363425221570 0.15 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774542900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774543200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 25931683646420657980305174442382948678723846095555794942576305551691913755183 0.8 UP
+placed minor side order for DOWN ..20869914909736788797350711256132600916701116273950278459436379520761922765275
+minor filled ..2 20869914909736788797350711256132600916701116273950278459436379520761922765275 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774543200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774543500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 36359058774150318684188868609259441787078199857312761310451079838063143032282 0.8 DOWN
+placed minor side order for UP ..48698953299079075179274273021298718519940322363073614221269289762219166168363
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+stop loss hit and selling ..2 36359058774150318684188868609259441787078199857312761310451079838063143032282 0.16 DOWN
+major side taken reversed market ..1 48698953299079075179274273021298718519940322363073614221269289762219166168363 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774543500
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774543800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 107071470820549262236346111566944799258074051591645925999156957200065575691997 0.8 UP
+placed minor side order for DOWN ..506958178246733041854710146568766599591093211801715897556626880092234356556
+minor filled ..2 506958178246733041854710146568766599591093211801715897556626880092234356556 0.15 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774543800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774544100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+❌ WebSocket error: 
+Socket connected: 1 True
+⚠️ Old socket still alive, closing it...
+Socket connected 2: None
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for btc-updown-5m-1774544100
+⚠️ Major side not taken, minor not filled, market ended
+------------------------------------------------------------
+switched new slug
+started for btc-updown-5m-1774544400
+
+============================================================
+📊 SESSION SUMMARY
+Total trades: 131
+Profitable trades: 92
+Unprofitable trades: 13
+Both sides but hit stop loss later: 0
+stop loss first: 13
+Profit = 4.6000000000000005 - 5.2 = net -0.5999999999999996
+============================================================
