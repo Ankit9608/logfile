@@ -1,0 +1,2486 @@
+PID: 1923
+started for eth-updown-5m-1774647600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 38460494065114429902340073536420236709778859608407417802271759476356363173797 0.61 UP
+placed minor side order for DOWN ..13344129642751128747492171044790283314153959528827096294656410591101066262449
+minor filled ..2 13344129642751128747492171044790283314153959528827096294656410591101066262449 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774647600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774647900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 56498880801319563542962174843564152823176122160663197672469161595156623837545 0.6 DOWN
+placed minor side order for UP ..5819430482236392867842041701619745437250383858181624148957606659390682620758
+minor filled ..2 5819430482236392867842041701619745437250383858181624148957606659390682620758 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774647900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774648200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 33628111495478571125401835336624379982716093678576463230895576743214877689958 0.6 UP
+placed minor side order for DOWN ..61127461039738374282427323916557612779409645414696681596508782768784637536509
+minor filled ..2 61127461039738374282427323916557612779409645414696681596508782768784637536509 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774648200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774648500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 32712508063822153440552266713742254960721846303158010341630599751039559048 0.6 UP
+placed minor side order for DOWN ..22022493731582409938714549714218694450838703505161221343956909181556615438995
+stop loss hit and selling ..2 32712508063822153440552266713742254960721846303158010341630599751039559048 0.4 UP
+major side taken reversed market ..1 22022493731582409938714549714218694450838703505161221343956909181556615438995 0.85 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774648500
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774648800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 97695052293417131847398534192028124164536943566853897138279385250994063884606 0.6 UP
+placed minor side order for DOWN ..38753543774467272691724668169499348942705805748079554152257772911494688786592
+minor filled ..2 38753543774467272691724668169499348942705805748079554152257772911494688786592 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774648800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774649100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 115081574034767867521063024494535106709593218680767776271697813618601255329370 0.61 UP
+placed minor side order for DOWN ..22427570311887792009535096928558879132324585244513736542097347801294140491802
+stop loss hit and selling ..2 115081574034767867521063024494535106709593218680767776271697813618601255329370 0.4 UP
+major side taken reversed market ..2 22427570311887792009535096928558879132324585244513736542097347801294140491802 0.85 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774649100
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774649400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 40787581044252529572526620338317325983426918444887261143179413190005457903964 0.6 UP
+placed minor side order for DOWN ..92557227825504298166311224738832307987893475582284804993242456878503179321587
+minor filled ..2 92557227825504298166311224738832307987893475582284804993242456878503179321587 0.35 DOWN
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774649400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774649700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 108477492958521678268608115871685098553707177761151331592568461415236828117156 0.6 DOWN
+placed minor side order for UP ..34828785754221809292633968345592449536742640183588245916048726820336129056611
+stop loss hit and selling ..2 108477492958521678268608115871685098553707177761151331592568461415236828117156 0.4 DOWN
+major side taken reversed market ..2 34828785754221809292633968345592449536742640183588245916048726820336129056611 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774649700
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774650000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 81460971901481228599043640905967799718722900636141717397609863151244854266155 0.6 UP
+placed minor side order for DOWN ..44622485057115487347895748004624962550901334437940769680598383885374296028129
+minor filled ..1 44622485057115487347895748004624962550901334437940769680598383885374296028129 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774650000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774650300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 44213724224786396004218614309056424940729627981985270103289123869747371719708 0.6 DOWN
+placed minor side order for UP ..69511898335968925392083132946765211933245260891748367890260394652234795142904
+minor filled ..2 69511898335968925392083132946765211933245260891748367890260394652234795142904 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774650300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774650600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 82465073248011326169713453090660910824675908868360115377710217823324576722732 0.6 DOWN
+placed minor side order for UP ..90344068634335729401527558958797564683230283437697190709643538323652824649904
+stop loss hit and selling ..2 82465073248011326169713453090660910824675908868360115377710217823324576722732 0.4 DOWN
+major side taken reversed market ..2 90344068634335729401527558958797564683230283437697190709643538323652824649904 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774650600
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774650900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 11407525476794938184464214237441126594625236626202216437899422541709679278470 0.6 UP
+placed minor side order for DOWN ..7046983517017150746933301394849434246214766868764440044073763556614523833796
+stop loss hit and selling ..2 11407525476794938184464214237441126594625236626202216437899422541709679278470 0.38 UP
+major side taken reversed market ..2 7046983517017150746933301394849434246214766868764440044073763556614523833796 0.85 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774650900
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774651200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 1314990575132022526643049284642433945165434141584293682168688458790086742701 0.6 UP
+placed minor side order for DOWN ..3317135713876895935906372561728920838457190881478022206967725941057950873671
+minor filled ..2 3317135713876895935906372561728920838457190881478022206967725941057950873671 0.35 DOWN
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774651200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774651500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 35231379150621848015754240993979158784377808596627988219349905528725646163381 0.6 UP
+placed minor side order for DOWN ..49751881491515875880296374641136938603367070029447768090020821246253287399262
+stop loss hit and selling ..2 35231379150621848015754240993979158784377808596627988219349905528725646163381 0.4 UP
+major side taken reversed market ..2 35231379150621848015754240993979158784377808596627988219349905528725646163381 0.87 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774651500
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774651800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 97802732165320193209199001454968441144242081028046967448845521235530239086236 0.6 UP
+placed minor side order for DOWN ..108779699573880893093435330635685331301158687381462276253199542860283875301870
+minor filled ..2 108779699573880893093435330635685331301158687381462276253199542860283875301870 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774651800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774652100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 27469927772634882952193398214947723703904934403823892651692991533685297048237 0.64 UP
+placed minor side order for DOWN ..44181480269289926573578955009241794140910520723977823934735476651380541019779
+minor filled ..2 44181480269289926573578955009241794140910520723977823934735476651380541019779 0.35 DOWN
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774652100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774652400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 43986822806119576211136448056487988340650543545842281982434919059846017117505 0.6 UP
+placed minor side order for DOWN ..107248395613628830880464375537069394622793376953113410465484060007101690402052
+stop loss hit and selling ..2 43986822806119576211136448056487988340650543545842281982434919059846017117505 0.4 UP
+major side taken reversed market ..1 107248395613628830880464375537069394622793376953113410465484060007101690402052 0.85 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774652400
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774652700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 35550847772788528532101246275631413575013687352198036843080820274264868749917 0.6 UP
+placed minor side order for DOWN ..59877074607513193021976428184387856529061755356942855215618677008736741270498
+minor filled ..2 59877074607513193021976428184387856529061755356942855215618677008736741270498 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774652700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774653000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 85433995940104418427980743579413306845817338504833958383320402304472325691888 0.63 UP
+placed minor side order for DOWN ..45114877594558589638759001935071019567980423701148363001994479689665141046468
+minor filled ..2 45114877594558589638759001935071019567980423701148363001994479689665141046468 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774653000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774653300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 93460976247103325162779648178181266618437574417852962254746050374517292988675 0.61 DOWN
+placed minor side order for UP ..54555744912063735661343919931616404747727960753533791018482375034927032972370
+minor filled ..2 54555744912063735661343919931616404747727960753533791018482375034927032972370 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774653300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774653600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 93931252109756902184785328106509104322932220263890967869819774656530957374090 0.6 DOWN
+placed minor side order for UP ..19795714782945622924408579788602016342540466740281399254772488913082704913865
+stop loss hit and selling ..2 93931252109756902184785328106509104322932220263890967869819774656530957374090 0.4 DOWN
+major side taken reversed market ..1 19795714782945622924408579788602016342540466740281399254772488913082704913865 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774653600
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774653900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 88705762668853654587190040236598840442103148732876840113463062536745290977411 0.62 DOWN
+placed minor side order for UP ..45092410905586416354104716379414204179125258128426614985715556905614162180676
+minor filled ..2 45092410905586416354104716379414204179125258128426614985715556905614162180676 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774653900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774654200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 10496239190526927205122582519566258659374970646593216282791881806815366232826 0.6 UP
+placed minor side order for DOWN ..108228784899971517523340971560119826437607606843124567604567493057191790620026
+minor filled ..2 108228784899971517523340971560119826437607606843124567604567493057191790620026 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774654200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774654500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 84421144703687286728488818634409168554988821866751140814968180697347921709520 0.6 DOWN
+placed minor side order for UP ..101012717832801795900583816363551415105330749417056396943336343028286769865743
+minor filled ..2 101012717832801795900583816363551415105330749417056396943336343028286769865743 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774654500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774654800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 18602577870897556154751049722165313260675570288705670430802217385140928847214 0.6 DOWN
+placed minor side order for UP ..103888745355635566155712966556962383297964468515964089702527303479090655217109
+minor filled ..2 103888745355635566155712966556962383297964468515964089702527303479090655217109 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774654800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774655100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 48360268208745548289294602602088364399252021834207609055694505380550998419738 0.62 UP
+placed minor side order for DOWN ..43978122990562910651873517606958210524712110018289301826203236290329218343163
+minor filled ..2 43978122990562910651873517606958210524712110018289301826203236290329218343163 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774655100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774655400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 85816102521100261022825646546184539644397419875267028722634382492014103394579 0.62 DOWN
+placed minor side order for UP ..83733858120474591561355476497886712287926466977610432933794784755033647605927
+minor filled ..2 83733858120474591561355476497886712287926466977610432933794784755033647605927 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774655400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774655700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 32312937498649035911815309078515644297256887635196043972710303322938169631822 0.63 DOWN
+placed minor side order for UP ..95927436396822307702628472411623048840666842954044353467010320410570233137831
+minor filled ..2 95927436396822307702628472411623048840666842954044353467010320410570233137831 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774655700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774656000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 112106733590990508246222347144307100013964501325150279883731497454226234745858 0.62 DOWN
+placed minor side order for UP ..3145587353033622416970630031913468824889141923905277102483420808196513984913
+minor filled ..2 3145587353033622416970630031913468824889141923905277102483420808196513984913 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774656000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774656300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 266244210116671530866469415399887813652738407333508958372227877221458549217 0.61 DOWN
+placed minor side order for UP ..72988485144347282520692893047083396923045221343015259197845177999292231157693
+minor filled ..2 72988485144347282520692893047083396923045221343015259197845177999292231157693 0.35 UP
+❌ WebSocket error: Connection to remote host was lost.
+Socket connected: 1 False
+Socket connected 2: False
+Reconnected
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774656300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774656600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 26463585123701854761125298403067485884623253451243978033235724366001578058373 0.6 DOWN
+placed minor side order for UP ..72398217352613173314631833030735025147189079867643438008827593233457259142332
+minor filled ..2 72398217352613173314631833030735025147189079867643438008827593233457259142332 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774656600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774656900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 10020040032810655023518140962719090498920308430379574680040445699407081476218 0.61 UP
+placed minor side order for DOWN ..32441357227386805057965465998595487017324165300523521265604687576611505071402
+minor filled ..2 32441357227386805057965465998595487017324165300523521265604687576611505071402 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774656900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774657200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 11540526165038545665574215379746364961652320270126838487296696082500973443931 0.6 UP
+placed minor side order for DOWN ..95441985000591526797934341809237634487158666623893982599016735946832359225786
+minor filled ..2 95441985000591526797934341809237634487158666623893982599016735946832359225786 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774657200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774657500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 106628692241160756854225695146909604972859760567332744164426697634284451102199 0.6 DOWN
+placed minor side order for UP ..36448324325826279629738671152438466492901552121288128643965296201203111571398
+minor filled ..2 36448324325826279629738671152438466492901552121288128643965296201203111571398 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774657500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774657800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 108021776758442859585520601336067613958497089139236799035584877019344528342742 0.62 UP
+placed minor side order for DOWN ..23751232749542161624807846908876830795225958061672066175796146005449544249244
+minor filled ..2 23751232749542161624807846908876830795225958061672066175796146005449544249244 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774657800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774658100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 20802887272896303801655412437412864528645696813446942857873762772308609438703 0.6 UP
+placed minor side order for DOWN ..45004940669722368795164947931247548855828427336084849064263262348843920266576
+minor filled ..1 45004940669722368795164947931247548855828427336084849064263262348843920266576 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774658100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774658400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 100179878975653805464034067975275830615482067174418857339492384503918510895407 0.6 DOWN
+placed minor side order for UP ..53932184322619265118023958860872180395771585686858822740388483325429553169184
+minor filled ..2 53932184322619265118023958860872180395771585686858822740388483325429553169184 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774658400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774658700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 15331905207845621827301176450229960962618557084049297209221347079443986558339 0.6 DOWN
+placed minor side order for UP ..14197141713181290989998233179090017852123679047632208073704520962569738426538
+minor filled ..2 14197141713181290989998233179090017852123679047632208073704520962569738426538 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774658700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774659000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 58073072578807178828322252665516499576550844732931221529193541863800795214832 0.6 UP
+placed minor side order for DOWN ..72206407758044277006168155303830023913293803881958048399150998448494834637121
+minor filled ..2 72206407758044277006168155303830023913293803881958048399150998448494834637121 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774659000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774659300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 26931071952145245930522474164849724953577854327158099418672026076473246380907 0.63 DOWN
+placed minor side order for UP ..113408146177623296600957799856037289541052868977366679353715168082575037854799
+stop loss hit and selling ..2 26931071952145245930522474164849724953577854327158099418672026076473246380907 0.39 DOWN
+major side taken reversed market ..2 113408146177623296600957799856037289541052868977366679353715168082575037854799 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774659300
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774659600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 771130780732917993540645878046248246993180458885125224397705924058974687527 0.6 UP
+placed minor side order for DOWN ..70132228330324461684785205020980576435849002794119908265491791918700362048625
+stop loss hit and selling ..1 771130780732917993540645878046248246993180458885125224397705924058974687527 0.4 UP
+major side taken reversed market ..2 70132228330324461684785205020980576435849002794119908265491791918700362048625 0.85 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774659600
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774659900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 102670519809705939131992897371287426166902606982527174085478107634369455533724 0.6 UP
+placed minor side order for DOWN ..41526286901797338541088701108870568204118009547210336556978674393356141939606
+stop loss hit and selling ..2 102670519809705939131992897371287426166902606982527174085478107634369455533724 0.4 UP
+major side taken reversed market ..1 41526286901797338541088701108870568204118009547210336556978674393356141939606 0.85 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774659900
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774660200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 76861749949064421756265226079596148537994740534599021197744535161522597115209 0.62 UP
+placed minor side order for DOWN ..47246149854214196474548212087107863512209961218216532975518252285012152404819
+minor filled ..2 47246149854214196474548212087107863512209961218216532975518252285012152404819 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774660200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774660500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 25155796404662316085728104081167312830879300119985617343774366701178194363818 0.61 UP
+placed minor side order for DOWN ..22417341106979697110758980078487574240749207626156432139341213582013016839781
+minor filled ..2 22417341106979697110758980078487574240749207626156432139341213582013016839781 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774660500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774660800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 97713534988718918307331334278736562003398352230729055768792613387011390803849 0.6 UP
+placed minor side order for DOWN ..24256272458996695230033915786632058209485203449651805106688742666240680183717
+minor filled ..2 24256272458996695230033915786632058209485203449651805106688742666240680183717 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774660800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774661100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 83365694674251298895869749619206301621898535955876659889795776670982742882522 0.61 DOWN
+placed minor side order for UP ..104675723248561845645334365664378390431780320817970638249487338401792367644741
+minor filled ..2 104675723248561845645334365664378390431780320817970638249487338401792367644741 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774661100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774661400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 29625409627786156983294282534341809331877191615113607496615242279359249260137 0.6 UP
+placed minor side order for DOWN ..111967763200349112900870292350736542282956997092655993245392124811929523903222
+minor filled ..2 111967763200349112900870292350736542282956997092655993245392124811929523903222 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774661400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774661700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 6346335486465718777127479454644304915739377720058979394774650773375520096115 0.62 DOWN
+placed minor side order for UP ..19063273237194714955922745915652031352461412960317355181596355154009091631600
+minor filled ..2 19063273237194714955922745915652031352461412960317355181596355154009091631600 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774661700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774662000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 40602185741228904730466256457850797273887112314148852385563322963226349842183 0.6 DOWN
+placed minor side order for UP ..46126993708212827506213602735604451054625031360270808396488359138052354268898
+stop loss hit and selling ..2 40602185741228904730466256457850797273887112314148852385563322963226349842183 0.4 DOWN
+major side taken reversed market ..2 46126993708212827506213602735604451054625031360270808396488359138052354268898 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774662000
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774662300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 79596094165787882861076233879162653987839386107364677354761459439088252928264 0.61 UP
+placed minor side order for DOWN ..74901150410253489471159822439337807451431718252151935732401310421359438439345
+minor filled ..2 74901150410253489471159822439337807451431718252151935732401310421359438439345 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774662300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774662600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 3872757346570898137791440759979630571954825304575188774613865141412862348210 0.61 UP
+placed minor side order for DOWN ..82245797010382095474296712851063451840138582077845720836979167522839409209993
+minor filled ..2 82245797010382095474296712851063451840138582077845720836979167522839409209993 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774662600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774662900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 115517616596299246716350540656159169345521917611603896480022530601970364425901 0.62 DOWN
+placed minor side order for UP ..98785682728349703300064066197047092926629921746712677844376687499747794762478
+minor filled ..2 98785682728349703300064066197047092926629921746712677844376687499747794762478 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774662900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774663200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 112902230573293034541337841894176788391748846399309015018008867475967006993113 0.6 UP
+placed minor side order for DOWN ..12392294822454421163808308722843851375404237712670336790138048951834894551272
+minor filled ..2 12392294822454421163808308722843851375404237712670336790138048951834894551272 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774663200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774663500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 88172535888895576361618473314863790266662673717390494402359628720097825802415 0.6 DOWN
+placed minor side order for UP ..25416059486566189307073233081731797481276412974284078876189829086712694025780
+minor filled ..1 25416059486566189307073233081731797481276412974284078876189829086712694025780 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774663500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774663800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 81617050002210527694996836772737491377447566719197299223382934760412363084036 0.6 DOWN
+placed minor side order for UP ..27283440659377609351887441115310636573899057135360032417130385948651817268514
+minor filled ..2 27283440659377609351887441115310636573899057135360032417130385948651817268514 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774663800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774664100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 45059918575366419311727028583369054501961582537372257509484287424640855766827 0.62 DOWN
+placed minor side order for UP ..54077666575236967747271267863811458818949085478069552862104480109392521123950
+stop loss hit and selling ..2 45059918575366419311727028583369054501961582537372257509484287424640855766827 0.4 DOWN
+major side taken reversed market ..2 45059918575366419311727028583369054501961582537372257509484287424640855766827 0.85 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774664100
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774664400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 8532713143714933138054061803692519559088703504142405896632193327142285543497 0.6 UP
+placed minor side order for DOWN ..49272082576770453221024285226613751090833326454113705462660774794034955067426
+minor filled ..2 49272082576770453221024285226613751090833326454113705462660774794034955067426 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774664400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774664700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 59729548061518916738110987988358334740319587593294172575508240433868393774070 0.62 UP
+placed minor side order for DOWN ..47957146206809896620711074528545555441189271596756148783602324214845950575618
+stop loss hit and selling ..2 59729548061518916738110987988358334740319587593294172575508240433868393774070 0.39 UP
+major side taken reversed market ..2 47957146206809896620711074528545555441189271596756148783602324214845950575618 0.85 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774664700
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774665000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 108900143996847473802547768496570421637262930169752393768019305797819068313769 0.62 UP
+placed minor side order for DOWN ..112471874426561854084525599684600907261165740248111957296727412704154554269862
+minor filled ..2 112471874426561854084525599684600907261165740248111957296727412704154554269862 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774665000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774665300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 32414621994256406794207805438972464615953201772972939869033136708839024346501 0.6 UP
+placed minor side order for DOWN ..94748346035162393814426672307969361984742775933062680581523409586836133338291
+minor filled ..2 94748346035162393814426672307969361984742775933062680581523409586836133338291 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774665300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774665600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 92283468845024239956098072189128744608120892115171973790377459492564263197241 0.62 UP
+placed minor side order for DOWN ..29664531233520378124760593036880072139938567735590598210455549719215771591891
+minor filled ..2 29664531233520378124760593036880072139938567735590598210455549719215771591891 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774665600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774665900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 81802804093334100904141178617088690706232991153233841591972766077492140256744 0.6 DOWN
+placed minor side order for UP ..67123238865021591068684744081553646432092610926314874946562031640758892613899
+minor filled ..2 67123238865021591068684744081553646432092610926314874946562031640758892613899 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774665900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774666200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 31577630391946274356046557328649002604664039019762890070605596897118010436717 0.6 UP
+placed minor side order for DOWN ..112394592181058775483619738248179513831674074963006895455835265752551522329490
+minor filled ..2 112394592181058775483619738248179513831674074963006895455835265752551522329490 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774666200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774666500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 102448045157679266105315439061869971564959318232138383883245525889881248742062 0.61 UP
+placed minor side order for DOWN ..77114228136968105657977183284757260158938202921669052298632890881938021441010
+stop loss hit and selling ..2 102448045157679266105315439061869971564959318232138383883245525889881248742062 0.4 UP
+major side taken reversed market ..1 102448045157679266105315439061869971564959318232138383883245525889881248742062 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774666500
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774666800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 61640971055746398766152084839250476957117043069339572592974337268448004282302 0.6 UP
+placed minor side order for DOWN ..98092153400437489933741218844708073845689652370071916783341440631619272262709
+minor filled ..2 98092153400437489933741218844708073845689652370071916783341440631619272262709 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774666800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774667100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 25629843911445967413367637561436457927518394854045697149736431223838910811480 0.6 UP
+placed minor side order for DOWN ..9260326127583193996339650792328915390916774480559545379914190876712238078174
+minor filled ..2 9260326127583193996339650792328915390916774480559545379914190876712238078174 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774667100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774667400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 88487926696367810120066110098385391415884159659586634364804650646270017331638 0.6 UP
+placed minor side order for DOWN ..18804331066763583729618583784303111352352274435834383779802028408909886962050
+minor filled ..2 18804331066763583729618583784303111352352274435834383779802028408909886962050 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774667400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774667700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 76378058940753108314107737533333763527092255426774323282649693246591720774297 0.62 UP
+placed minor side order for DOWN ..9872986389966274695023080369679048537526525053255603983180291673660100902461
+minor filled ..2 9872986389966274695023080369679048537526525053255603983180291673660100902461 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774667700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774668000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 35746674555815166292262803860835319859834566182344222704920048585222993345924 0.6 UP
+placed minor side order for DOWN ..82832068868005417192895205340763061635239648292050685530687659871203103268584
+minor filled ..2 82832068868005417192895205340763061635239648292050685530687659871203103268584 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774668000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774668300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 113538444025622259691089718688431103638749634206615410977683190997463498602926 0.62 DOWN
+placed minor side order for UP ..50906335744525738143823909934935238106574075541936440669256394537968782748580
+minor filled ..1 50906335744525738143823909934935238106574075541936440669256394537968782748580 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774668300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774668600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 24318680411267035970220945265874962008215236339842694859148078694289941213089 0.62 DOWN
+placed minor side order for UP ..20096541187756564909973518007062121477645269189289372616439323178369140745000
+minor filled ..2 20096541187756564909973518007062121477645269189289372616439323178369140745000 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774668600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774668900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 26546790975878015937236189139802675182854116855029593704989736318771797765651 0.6 DOWN
+placed minor side order for UP ..29654444540369913951887507900536459617608139788461560861352958066894394008627
+stop loss hit and selling ..2 26546790975878015937236189139802675182854116855029593704989736318771797765651 0.4 DOWN
+major side taken reversed market ..2 29654444540369913951887507900536459617608139788461560861352958066894394008627 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774668900
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774669200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 55316454730336338079020517362860316268910595897325361238820873530442361964109 0.6 UP
+placed minor side order for DOWN ..14935717652273566060090613742464384615009924598890067446938665948050177232832
+minor filled ..2 14935717652273566060090613742464384615009924598890067446938665948050177232832 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774669200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774669500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 45473851761133961973163555488338614857801726529711722429472612474469451695779 0.62 DOWN
+placed minor side order for UP ..109724688531146021540482167644516704602092590059006109189401563826207944562947
+minor filled ..2 109724688531146021540482167644516704602092590059006109189401563826207944562947 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774669500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774669800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 3310861586989604189059663453928347995890826675747342421796080339867556534371 0.6 DOWN
+placed minor side order for UP ..4094763474999592404192679281743733480330691170500166418262369910046803906232
+minor filled ..2 4094763474999592404192679281743733480330691170500166418262369910046803906232 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774669800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774670100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 81852988006559394185117838840440198517373535186202686293277970541435808442892 0.6 UP
+placed minor side order for DOWN ..87843678997416186676168703204775542666623359325959667327167872284818065605200
+minor filled ..2 87843678997416186676168703204775542666623359325959667327167872284818065605200 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774670100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774670400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 14332638998104350287108524905000584180380527643619515741609334794728610702456 0.62 DOWN
+placed minor side order for UP ..79903129284522641663770404860834283309671443248159317947429422904869530743885
+minor filled ..2 79903129284522641663770404860834283309671443248159317947429422904869530743885 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774670400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774670700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 44585395395089436045270614214946416384178896874812302177308519106683706776821 0.6 DOWN
+placed minor side order for UP ..88714300154058817100722188672328514454389919823821321491990655678131649797370
+minor filled ..2 88714300154058817100722188672328514454389919823821321491990655678131649797370 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774670700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774671000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 30217922556296010539985071100465438191686307494020205443443098076889654881999 0.6 DOWN
+placed minor side order for UP ..30034355096245810174115919285706562045202802101722988427418934928376023143414
+stop loss hit and selling ..2 30217922556296010539985071100465438191686307494020205443443098076889654881999 0.38 DOWN
+major side taken reversed market ..2 30034355096245810174115919285706562045202802101722988427418934928376023143414 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774671000
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774671300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 56142559696163907501531639539413597630083789912541003955050617601790021603422 0.62 UP
+placed minor side order for DOWN ..27422692221753797628886129519259602256166994051261807535770270057819682274721
+stop loss hit and selling ..1 56142559696163907501531639539413597630083789912541003955050617601790021603422 0.4 UP
+major side taken reversed market ..1 56142559696163907501531639539413597630083789912541003955050617601790021603422 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774671300
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774671600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 41822526506210966943255688972816612007603162972726488977287741067830747383790 0.6 DOWN
+placed minor side order for UP ..50834236689592843803942946749898491074252092091726696583485321034638662723213
+stop loss hit and selling ..2 41822526506210966943255688972816612007603162972726488977287741067830747383790 0.38 DOWN
+major side taken reversed market ..2 50834236689592843803942946749898491074252092091726696583485321034638662723213 0.88 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774671600
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774671900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 13200756309435803638276462417462546895698049020713044935503097829083414903578 0.63 DOWN
+placed minor side order for UP ..34661482977668058612292917747453200864598724707489357505781776915719183477177
+minor filled ..2 34661482977668058612292917747453200864598724707489357505781776915719183477177 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774671900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774672200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 46939908448283114618123524415251049779309748804141684349982063865246404328760 0.6 DOWN
+placed minor side order for UP ..109939207440910947451701910935515967688611785908630877144676465235780077569449
+minor filled ..2 109939207440910947451701910935515967688611785908630877144676465235780077569449 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774672200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774672500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 90585230462772441139278459699143014483137074021239857739001417868384035544575 0.62 DOWN
+placed minor side order for UP ..71761326067372971673446860091944276066193780628653549284463492439592685256018
+minor filled ..2 71761326067372971673446860091944276066193780628653549284463492439592685256018 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774672500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774672800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 29224911122830311733842796434769380021620980484354441476473119304557482991048 0.6 DOWN
+placed minor side order for UP ..9024858209417136991664913900894556889094891758105744629215796226181221593440
+minor filled ..2 9024858209417136991664913900894556889094891758105744629215796226181221593440 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774672800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774673100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 1490159246745247343650756062234058793522293326880943448680017577349873948086 0.6 DOWN
+placed minor side order for UP ..77965261724979068414561441416056822017213318848320305214838560277448507680178
+minor filled ..2 77965261724979068414561441416056822017213318848320305214838560277448507680178 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774673100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774673400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 36696402845840565596863654970413912697954722900491618893348234844292595598666 0.6 UP
+placed minor side order for DOWN ..60092590557913193092191170781742392426044629056402864292496983540761007034960
+minor filled ..2 60092590557913193092191170781742392426044629056402864292496983540761007034960 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774673400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774673700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 105912882836730868120498936263951963159268899791416435728840288886171900265166 0.61 DOWN
+placed minor side order for UP ..68447121949959804473369464656772221981819971309089658647275011570779827866433
+minor filled ..2 68447121949959804473369464656772221981819971309089658647275011570779827866433 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774673700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774674000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 13026834441208456558612389748036786593407427954893826957554839680086165803183 0.62 UP
+placed minor side order for DOWN ..44878588914803955401357341869025954900992928350855203774126809675180483799497
+minor filled ..2 44878588914803955401357341869025954900992928350855203774126809675180483799497 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774674000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774674300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 35141398541626773096168399329960451178647594810609014014504238774681018696134 0.62 UP
+placed minor side order for DOWN ..2422761038851751020864966338715908874080355475788519334020750324097261210543
+minor filled ..2 2422761038851751020864966338715908874080355475788519334020750324097261210543 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774674300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774674600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 101770599076069272838311136583422646716251796934943430875104253113402619800474 0.6 DOWN
+placed minor side order for UP ..88339651502641429198013872382041214128097601437996358515719592432700249998165
+minor filled ..2 88339651502641429198013872382041214128097601437996358515719592432700249998165 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774674600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774674900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 38977418535527924805746103884660882314787914892239099242571622867122425453635 0.6 UP
+placed minor side order for DOWN ..78723314957171094279210500177811379215948429201304428379604795328794832451273
+minor filled ..2 78723314957171094279210500177811379215948429201304428379604795328794832451273 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774674900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774675200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 103435080674545680980115689121572610135743531806497643778106278276522302277984 0.6 UP
+placed minor side order for DOWN ..52025547402887676727097528550429749932139813438427083204705851199512942848593
+minor filled ..2 52025547402887676727097528550429749932139813438427083204705851199512942848593 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774675200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774675500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 102105056166311406370544881274118527542973337419804091669478979036880955230307 0.6 DOWN
+placed minor side order for UP ..101920926323895123071826687058096060768009497912927229717513456264355677828000
+minor filled ..2 101920926323895123071826687058096060768009497912927229717513456264355677828000 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774675500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774675800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 83643985893680561801198116851471630160002328352852143582513675757348914482067 0.62 DOWN
+placed minor side order for UP ..14736435084537438988735708990539690789315994523292088964861224005257407574897
+minor filled ..2 14736435084537438988735708990539690789315994523292088964861224005257407574897 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774675800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774676100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 62202012459216537212656733641617210538422410957397668911830087248543802390885 0.62 DOWN
+placed minor side order for UP ..108645733698776605841417669451968737598612192716515097428915201515786879501751
+stop loss hit and selling ..2 62202012459216537212656733641617210538422410957397668911830087248543802390885 0.39 DOWN
+major side taken reversed market ..2 108645733698776605841417669451968737598612192716515097428915201515786879501751 0.86 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774676100
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774676400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 39343235170449193391910300706205981597864387825428716654419107851614086887504 0.63 DOWN
+placed minor side order for UP ..90845945207147323773986823699972775576608721150913405010750424725662411749311
+minor filled ..2 90845945207147323773986823699972775576608721150913405010750424725662411749311 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774676400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774676700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 92892740423241170500639737748760571413383455761601919757982052775108834725429 0.62 UP
+placed minor side order for DOWN ..70033598732788166938602290752639151565597397073621239652205667427025385580343
+minor filled ..2 70033598732788166938602290752639151565597397073621239652205667427025385580343 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774676700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774677000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 87859062610874502980791143907821157534831999227494719442994157770303682320968 0.6 DOWN
+placed minor side order for UP ..32070612941597801425766372376764767911047307455694983152818905173383141728093
+minor filled ..2 32070612941597801425766372376764767911047307455694983152818905173383141728093 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774677000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774677300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 57703643918117381291459518593621754336450193875285224104468472443547004469275 0.62 DOWN
+placed minor side order for UP ..88177753055654037242333275764851198443330918737050397954270090958478316029757
+stop loss hit and selling ..2 57703643918117381291459518593621754336450193875285224104468472443547004469275 0.4 DOWN
+major side taken reversed market ..2 88177753055654037242333275764851198443330918737050397954270090958478316029757 0.9 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774677300
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774677600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 74145789339665988416352370134804786360479845719517079936309844838553884082116 0.63 DOWN
+placed minor side order for UP ..97499110125586132716887037207336305948672049969560216414971946617832523193523
+stop loss hit and selling ..2 74145789339665988416352370134804786360479845719517079936309844838553884082116 0.4 DOWN
+major side taken reversed market ..2 74145789339665988416352370134804786360479845719517079936309844838553884082116 0.85 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774677600
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774677900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 27599046354923025689866703402634042141734174060635778219968045730272601268478 0.6 UP
+placed minor side order for DOWN ..5332614964537697501965139568936506591971147666246199937923803759266663256142
+minor filled ..2 5332614964537697501965139568936506591971147666246199937923803759266663256142 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774677900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774678200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 35633283864811185599270589654128940366456935621617329141168448333693110108463 0.63 DOWN
+placed minor side order for UP ..101055182295823351392157959924662586162694431243068584915958067991188546309976
+minor filled ..2 101055182295823351392157959924662586162694431243068584915958067991188546309976 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774678200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774678500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 84266768116465566376045355375042379987958026667947908433466692500671678214861 0.6 DOWN
+placed minor side order for UP ..86210329781061231125023877501968266252185851440666979262880036475200257497954
+stop loss hit and selling ..2 84266768116465566376045355375042379987958026667947908433466692500671678214861 0.38 DOWN
+major side taken reversed market ..2 86210329781061231125023877501968266252185851440666979262880036475200257497954 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774678500
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774678800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 6403641582717866354267938804712073016840083883740681955539327387807578458927 0.63 DOWN
+placed minor side order for UP ..12052896113459695999643569223170935259488282964677386255615751001641034438823
+minor filled ..2 12052896113459695999643569223170935259488282964677386255615751001641034438823 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774678800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774679100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 52247331944690722349158364663821084595825499487038691049055120565572233508649 0.63 DOWN
+placed minor side order for UP ..19495577779772865826495692920378463225527358572728278264626232573924545432341
+minor filled ..2 19495577779772865826495692920378463225527358572728278264626232573924545432341 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774679100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774679400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 26527541701971408883948598551898762208171299341040263901042122507137183032215 0.62 UP
+placed minor side order for DOWN ..61071642905907920382811469968984839940473016795543985277473081086330642567498
+minor filled ..2 61071642905907920382811469968984839940473016795543985277473081086330642567498 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774679400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774679700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 113376306163291635393684834925058249344796232775508744995760417048608162307405 0.6 DOWN
+placed minor side order for UP ..53946081706882534070491742626584890593208754025223895530794617797289696241816
+minor filled ..2 53946081706882534070491742626584890593208754025223895530794617797289696241816 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774679700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774680000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 87620181988122759213421099587861522957926324996558919482134389622676897692727 0.63 DOWN
+placed minor side order for UP ..106857860556335845342083334798284156695479327476726723729457388733684616317443
+minor filled ..2 106857860556335845342083334798284156695479327476726723729457388733684616317443 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774680000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774680300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 6243801783450122932330842458740296309031623391735340931215579529276338238137 0.6 DOWN
+placed minor side order for UP ..107926771713118831781826211196777425407241342208608901013310831887204999267618
+stop loss hit and selling ..2 6243801783450122932330842458740296309031623391735340931215579529276338238137 0.4 DOWN
+major side taken reversed market ..1 107926771713118831781826211196777425407241342208608901013310831887204999267618 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774680300
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774680600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 109136987642112463220088006405022003056487581130483262571055351090322441154596 0.6 DOWN
+placed minor side order for UP ..57186427957443347648392432366908184839362166103470570496537106498301069928197
+minor filled ..2 57186427957443347648392432366908184839362166103470570496537106498301069928197 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774680600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774680900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 44397879286390533360893262329942633361481017396529529572413753410383954722343 0.61 UP
+placed minor side order for DOWN ..14022048820557453493285244965667403968566272685438530860566187880740582969741
+minor filled ..2 14022048820557453493285244965667403968566272685438530860566187880740582969741 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774680900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774681200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 71077905789993595111217547972806587811717642755802698473552948449659628006077 0.6 UP
+placed minor side order for DOWN ..83259472039970462750557221439138076229793850937074484690303409232691989467892
+stop loss hit and selling ..2 71077905789993595111217547972806587811717642755802698473552948449659628006077 0.4 UP
+major side taken reversed market ..2 71077905789993595111217547972806587811717642755802698473552948449659628006077 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774681200
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774681500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 99184805492904273527520274134724306637273131208601426100823894826025356884425 0.61 DOWN
+placed minor side order for UP ..76428768311188080818849841342804816546313364343660907097038751128986623642725
+minor filled ..2 76428768311188080818849841342804816546313364343660907097038751128986623642725 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774681500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774681800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 6028989276599171395843264638377548600754669463833466482961982263406410249441 0.63 DOWN
+placed minor side order for UP ..72463166216384041971974540266758083207065864809842255091654431420574736797901
+minor filled ..2 72463166216384041971974540266758083207065864809842255091654431420574736797901 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774681800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774682100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 4000013557020936562862929937711610322698257490784068746934176459297487633093 0.63 DOWN
+placed minor side order for UP ..12348663685179714312080398273403017461441803645810526185520289788934880689928
+stop loss hit and selling ..2 4000013557020936562862929937711610322698257490784068746934176459297487633093 0.4 DOWN
+major side taken reversed market ..2 12348663685179714312080398273403017461441803645810526185520289788934880689928 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774682100
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774682400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 24355282837287817755483553545645986509781627464105718328088524800600716403491 0.63 DOWN
+placed minor side order for UP ..64972830344670772409888989987655560668736990076723806870669931720756094709880
+stop loss hit and selling ..1 24355282837287817755483553545645986509781627464105718328088524800600716403491 0.4 DOWN
+major side taken reversed market ..2 24355282837287817755483553545645986509781627464105718328088524800600716403491 0.85 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774682400
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774682700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 91672573553668829498003055450382227423375178375160903651619033273455093648795 0.6 UP
+placed minor side order for DOWN ..22187924230095254174887242621724994472174591809851841496430969109079901143416
+stop loss hit and selling ..2 91672573553668829498003055450382227423375178375160903651619033273455093648795 0.4 UP
+major side taken reversed market ..2 22187924230095254174887242621724994472174591809851841496430969109079901143416 0.85 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774682700
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774683000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 114132105211411696521748815329915763394806461491641539233009565111995048645497 0.65 UP
+placed minor side order for DOWN ..66905424298165140721830954767804203931083066082057191523630782314851341754314
+stop loss hit and selling ..2 114132105211411696521748815329915763394806461491641539233009565111995048645497 0.37 UP
+major side taken reversed market ..2 66905424298165140721830954767804203931083066082057191523630782314851341754314 0.85 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774683000
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774683300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 62757169695448799136331781563669469313778711179974041622407420000275955503829 0.63 DOWN
+placed minor side order for UP ..102015553933777649254280617515346668095841815841296668240286482301739283065584
+minor filled ..2 102015553933777649254280617515346668095841815841296668240286482301739283065584 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774683300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774683600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 7384261333659864106738624768567721606751827493693553702366430053115951234557 0.63 DOWN
+placed minor side order for UP ..39997030790626929758358036508120004914450492591104390696557582028823303285096
+stop loss hit and selling ..2 7384261333659864106738624768567721606751827493693553702366430053115951234557 0.39 DOWN
+major side taken reversed market ..2 7384261333659864106738624768567721606751827493693553702366430053115951234557 0.85 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774683600
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774683900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 16480793462617554976197202727327147239377192519359279089420690355493717477766 0.6 DOWN
+placed minor side order for UP ..1850711891138218730104585206119584688791008450555795268096847864110922892534
+minor filled ..2 1850711891138218730104585206119584688791008450555795268096847864110922892534 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774683900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774684200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 98483354920297684793116337126897744642621535326982058330162723546385220275574 0.6 DOWN
+placed minor side order for UP ..18533668384871565649022408628748681600898383668577841876301951621523705272683
+stop loss hit and selling ..2 98483354920297684793116337126897744642621535326982058330162723546385220275574 0.4 DOWN
+major side taken reversed market ..2 18533668384871565649022408628748681600898383668577841876301951621523705272683 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774684200
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774684500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 15232577809890201484987752985304719311830765237306672055146159006577187183362 0.63 DOWN
+placed minor side order for UP ..45793802938503980126576857764909954023563377799575886972622543181216639034604
+stop loss hit and selling ..2 15232577809890201484987752985304719311830765237306672055146159006577187183362 0.4 DOWN
+major side taken reversed market ..2 45793802938503980126576857764909954023563377799575886972622543181216639034604 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774684500
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774684800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 1016792079841643559982812202451245942884702956657651983215898096702900418142 0.6 DOWN
+placed minor side order for UP ..21422481081310871889821758440841080241543003870759537635115450200160953544827
+minor filled ..2 21422481081310871889821758440841080241543003870759537635115450200160953544827 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774684800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774685100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 54178051121988544966890207267389720392272338952448551493002834797955812655538 0.63 DOWN
+placed minor side order for UP ..52234333688304825570083031877680013334231373035546683649395536295901241407632
+minor filled ..2 52234333688304825570083031877680013334231373035546683649395536295901241407632 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774685100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774685400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 81200539031025609036953691750316724981670598498836228937445470410935603846407 0.6 DOWN
+placed minor side order for UP ..89343713794883994053217538439055115873632914230231494528200417648452925183599
+stop loss hit and selling ..2 81200539031025609036953691750316724981670598498836228937445470410935603846407 0.4 DOWN
+major side taken reversed market ..2 81200539031025609036953691750316724981670598498836228937445470410935603846407 0.89 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774685400
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774685700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 75515669559076352709468115503375803757463651748675621162426237799134467617476 0.6 DOWN
+placed minor side order for UP ..104755980739119394779375776083629174790043453890903912707138942045900512385628
+minor filled ..2 104755980739119394779375776083629174790043453890903912707138942045900512385628 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774685700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774686000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 2401296371189798060974888853431639318880998656937713845067761883599952154424 0.6 UP
+placed minor side order for DOWN ..53477204188585623740780056154736656962168409773072721284724667292686581730983
+minor filled ..2 53477204188585623740780056154736656962168409773072721284724667292686581730983 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774686000
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774686300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 64237535029318320405035691085157131599496675210012020809210363336320298004133 0.6 UP
+placed minor side order for DOWN ..30670877175703226546933776154950784724417459200130204186257807902921317822647
+minor filled ..2 30670877175703226546933776154950784724417459200130204186257807902921317822647 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774686300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774686600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 30966881890375456324599478947187091584994992219965526974279387702732966193425 0.6 DOWN
+placed minor side order for UP ..44192234094103336254336314317702185088815436747617475904224235315296123585039
+minor filled ..2 44192234094103336254336314317702185088815436747617475904224235315296123585039 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774686600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774686900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 99737524489898480463688570530184362936833528560003924180712318496163854315485 0.61 UP
+placed minor side order for DOWN ..69142060926142647841161883504564804261944144795833455868048018606991284182639
+minor filled ..2 69142060926142647841161883504564804261944144795833455868048018606991284182639 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774686900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774687200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 44942516263588781438502784040123261841032741247078476955742545808718187887140 0.62 UP
+placed minor side order for DOWN ..3123271320356481803510126240700411207029683610299530403129016722360259723264
+minor filled ..2 3123271320356481803510126240700411207029683610299530403129016722360259723264 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774687200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774687500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 37488518146821004671274330952168426228909646999032376677737725664185408334828 0.6 UP
+placed minor side order for DOWN ..10071594554121342170076009927206329844792205702186359305975656421737495516998
+minor filled ..2 10071594554121342170076009927206329844792205702186359305975656421737495516998 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774687500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774687800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 69708833648392583027409016290212396329252385478727137571441626125990605499427 0.62 UP
+placed minor side order for DOWN ..80782661515521854127738806585166673830332610479787495854114569718317023119
+stop loss hit and selling ..2 69708833648392583027409016290212396329252385478727137571441626125990605499427 0.4 UP
+major side taken reversed market ..2 80782661515521854127738806585166673830332610479787495854114569718317023119 0.85 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774687800
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774688100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 20751936689898920408962467972602992895291512219767715588959808246410948864492 0.6 UP
+placed minor side order for DOWN ..6230110276573958567353166062886898055390223873671540537611465131747824573031
+stop loss hit and selling ..2 20751936689898920408962467972602992895291512219767715588959808246410948864492 0.4 UP
+major side taken reversed market ..2 20751936689898920408962467972602992895291512219767715588959808246410948864492 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774688100
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774688400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 7940997355849509576450307905163719650517765384288798246818963570102823907105 0.63 UP
+placed minor side order for DOWN ..19846265466514404075101029084503813630095052689631511078915816084749530625136
+stop loss hit and selling ..2 7940997355849509576450307905163719650517765384288798246818963570102823907105 0.39 UP
+major side taken reversed market ..2 19846265466514404075101029084503813630095052689631511078915816084749530625136 0.85 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774688400
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774688700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 50048451335386934693774912882054105790763055327670432236618149762859550009284 0.63 UP
+placed minor side order for DOWN ..24304497001012366396062029524080762150835587432813030601136310369665538051312
+minor filled ..2 24304497001012366396062029524080762150835587432813030601136310369665538051312 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774688700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774689000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 109619018121673969830995048767297024518535916714852014717384295761016780788867 0.63 UP
+placed minor side order for DOWN ..92160058438940556928489811253413455719212940107321006512208218403139535531360
+stop loss hit and selling ..2 109619018121673969830995048767297024518535916714852014717384295761016780788867 0.4 UP
+major side taken reversed market ..2 109619018121673969830995048767297024518535916714852014717384295761016780788867 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774689000
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774689300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 114774199265807910746419877583492323035328949992180885201208482309777838785791 0.63 UP
+placed minor side order for DOWN ..82134329341225983506782592424466053679250604606876238871675314007096325167836
+stop loss hit and selling ..2 114774199265807910746419877583492323035328949992180885201208482309777838785791 0.39 UP
+major side taken reversed market ..1 114774199265807910746419877583492323035328949992180885201208482309777838785791 0.86 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774689300
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774689600
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 4993868277457026689890281054708570214058131262964915151268353859414613792842 0.63 UP
+placed minor side order for DOWN ..64700454918266170263775000345633715119469221159027068888730316212313104677833
+minor filled ..2 64700454918266170263775000345633715119469221159027068888730316212313104677833 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774689600
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774689900
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 35047893470211528085868668051811490940839963546927627668152061349230285235157 0.61 DOWN
+placed minor side order for UP ..81771987223827355241154031248188439445898393839453261954314298082156181429731
+minor filled ..2 81771987223827355241154031248188439445898393839453261954314298082156181429731 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774689900
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774690200
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 98832804616069675673251032333536459928339339194825624320143258978496340925845 0.6 UP
+placed minor side order for DOWN ..56911448058089787099011311652717088529744388509108007632092358037034961938912
+minor filled ..2 56911448058089787099011311652717088529744388509108007632092358037034961938912 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774690200
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774690500
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 9506522181299749125513614226565745278330363204725939890905645576522344948114 0.6 DOWN
+placed minor side order for UP ..7528273674962734693712201359660939509309543610128276643317311151942061853180
+minor filled ..2 7528273674962734693712201359660939509309543610128276643317311151942061853180 0.35 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774690500
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774690800
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 2875647293976358867863207426013300630619266130437286207823947539731425696183 0.6 UP
+placed minor side order for DOWN ..91700915703791242138288537934767598211624470239273186147319997222768348782416
+minor filled ..2 91700915703791242138288537934767598211624470239273186147319997222768348782416 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774690800
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774691100
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 78506602571328493028343259024726456432716640081556379172410335548682256917337 0.62 UP
+placed minor side order for DOWN ..9058688965096108257580392596354838604737467413455870390264905949023534636297
+minor filled ..2 9058688965096108257580392596354838604737467413455870390264905949023534636297 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774691100
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774691400
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..1 47380206975904722825525604565075806716866210346149477622047553723807650775021 0.6 UP
+placed minor side order for DOWN ..40088488200742543955340622623034710150065777524691379432775522562995242120473
+minor filled ..2 40088488200742543955340622623034710150065777524691379432775522562995242120473 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774691400
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774691700
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 5477908524571972149210669113237001600810362015769493934158221179664257956714 0.61 UP
+placed minor side order for DOWN ..41941553476375754457718464765542360259530552921693721590408071241557049248074
+minor filled ..2 41941553476375754457718464765542360259530552921693721590408071241557049248074 0.35 DOWN
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774691700
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774692000
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 77466279906916573663627470070644949982270843545717841875218211330024605173961 0.62 DOWN
+placed minor side order for UP ..12380952670685121564215391388636831631421462546269686657208636295936617174333
+stop loss hit and selling ..2 77466279906916573663627470070644949982270843545717841875218211330024605173961 0.39 DOWN
+major side taken reversed market ..2 12380952670685121564215391388636831631421462546269686657208636295936617174333 0.85 UP
+Market ended 1 ....
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774692000
+❌ Stop loss hit first → cancel 0.15 order
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774692300
+✅ Request successful with SSL verification
+Websocket opened successfully!
+✅ WebSocket connected successfully!
+✅ Subscription sent
+'list' object has no attribute 'get'
+major side taken ..2 59633585871018565076363145187362995676922991251222212265104759571622971934975 0.62 UP
+placed minor side order for DOWN ..71646919448036398347186213044817358429986686572017249449204199804020646640689
+minor filled ..2 71646919448036398347186213044817358429986686572017249449204199804020646640689 0.35 DOWN
+❌ WebSocket error: 
+Socket connected: 1 True
+⚠️ Old socket still alive, closing it...
+Socket connected 2: None
+WebSocket closed: None - None
+excepion 4 'NoneType' object has no attribute 'close'
+✅ Market cycle complete for eth-updown-5m-1774692300
+✅ 0.15 hit first → good trade
+------------------------------------------------------------
+switched new slug
+started for eth-updown-5m-1774692600
+
+============================================================
+📊 SESSION SUMMARY
+Total trades: 150
+Profitable trades: 111
+Unprofitable trades: 39
+Both sides but hit stop loss later: 0
+stop loss first: 39
+Profit = 5.550000000000001 - 15.600000000000001 = net -10.05
+============================================================
